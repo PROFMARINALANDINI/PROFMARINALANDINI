@@ -1,5 +1,8 @@
 ## Hi there 👋
 **CURSO ALURA**
+
+(https://tenor.com/pt-BR/view/lazy-cat-stairs-gif-13378074)
+
 <!--
 **PROFMARINALANDINI/PROFMARINALANDINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
